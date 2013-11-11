@@ -6,7 +6,7 @@ Taken from http://www.bbc.co.uk/food/recipes/proper_baked_beans_with_36013. Requ
 75ml rapesead oil
 200g uncut smoked streaky bacon
 200g onion
-2 garlic cloves
+2 cloves garlic
 2 tins chopped tomatoes
 2 tbsp tomato purée
 150g soft dark brown sugar
@@ -31,7 +31,7 @@ bury(
 				cook until onion soft(
 					fry(uncut smoked streaky bacon, rapesead oil),
 					onion,
-					garlic cloves),
+					garlic),
 				chopped tomatoes,
 				tomato purée,
 				soft dark brown sugar,
