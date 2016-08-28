@@ -4,7 +4,7 @@ Uses a stand mixer, aka Kitchen Aid, for making the dough. Replace mixer at spee
 
 1 packet yeast
 235ml warm water
-0.5tsp salt
+0.5tsp salt for dough
 2tsp olive oil for dough
 350g plain flour
 extra flour
@@ -16,6 +16,7 @@ extra flour
 1tsp basil
 0.5tsp ground cumin
 1tsp chilli powder
+1tsp salt for sauce
 1tbsp raspberry balsamic vinegar
 200g grated mozzarella for bottom
 110g chorizo, diced
@@ -24,6 +25,7 @@ extra flour
 12 slices pepperoni for top
 20g parmesan
 1tsp origano for top
+1tsp freshly ground black pepper
 
 bake 230degC for 15-20mins(
 	top(
@@ -41,7 +43,7 @@ bake 230degC for 15-20mins(
 													packet yeast,
 													warm water
 												),
-												salt,
+												salt for dough,
 												olive oil for dough,
 												plain flour
 											),
@@ -62,6 +64,7 @@ bake 230degC for 15-20mins(
 									basil,
 									ground cumin,
 									chilli powder,
+									salt for sauce,
 									raspberry balsamic vinegar
 								)
 							)
@@ -76,6 +79,7 @@ bake 230degC for 15-20mins(
 			slices pepperoni for top
 		),
 		parmesan,
-		origano for top
+		origano for top,
+		freshly ground black pepper
 	)
 )
