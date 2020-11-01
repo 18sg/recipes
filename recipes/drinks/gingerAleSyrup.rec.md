@@ -13,7 +13,7 @@ None alcoholic. Dilute with sparkling water like a cordial. You can slice the gi
     1tsp peppercorns
     3 star anise pods
 
-    strain/filter as much as practical(
+    "strain/filter as much as practical"(
         cool to room temp(
             simmer(
                 mix(

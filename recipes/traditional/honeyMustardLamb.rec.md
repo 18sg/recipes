@@ -15,7 +15,7 @@ Tasty honey mustard lamb steaks with a crispy coating
     drizzle(
         fry until cooked through ~7mins each side(
             coat(
-                rub 1/2tsp dressing into each steak and season well(
+                "rub 1/2tsp dressing into each steak and season well"(
                     mix(
                         wholegrain mustard,
                         red wine vinegar,

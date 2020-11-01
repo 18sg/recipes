@@ -16,7 +16,7 @@ samey small main.
             place in single layer on foil lined tray(
                 brush(aubergines, oil))),
         mix into paste(
-            fry on medium/low heat til soft but not browned(
+            'fry on medium/low heat til soft but not browned'(
                 garlic,
                 oil),
             small bunch of flat leaf parsley,

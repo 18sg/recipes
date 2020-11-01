@@ -16,7 +16,7 @@ Also briefly known as the Jonny Special. Really quick to make.
     3 medium tomatoes, sliced
     12 disks chorizo
 
-    cook until cheese browned/bubbling(
+    "cook until cheese browned/bubbling"(
         cover(
             spread over flat area(
                 flatten inner section with fork(

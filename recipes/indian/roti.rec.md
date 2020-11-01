@@ -18,7 +18,7 @@ Makes about 10 rotis. Much easier than it looks and really tasty. If you roll th
                             working one at a time role out into 15cm circles(
                                 flour balls(
                                     divide into smooth balls 35 to 37g and flatten slightly(
-                                        once smooth doesn't crack and finger leaves indent cover with wet towel for 20mins(
+                                        "once smooth doesn't crack and finger leaves indent cover with wet towel for 20mins"(
                                             kneed with moist hands to add more moisture(
                                                 mix in water with hands until comes together(
                                                     mix with spoon or spatula at first(

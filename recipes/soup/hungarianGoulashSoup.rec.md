@@ -24,13 +24,13 @@ trouble to find the real stuff if you can.
     simmer for another 30 minutes(
         cover and simmer for at least 1.5 hours until beef tender(
             cook in small batches in a pan(
-                toss/coat in a bowl(
+                'toss/coat in a bowl'(
                     trim and cube(braising steak),
                     plain flour,
                     salt,
                     pepper),
                 oil),
-            cook for 10 min/until soft(
+            "cook for 10 min/until soft"(
                 medium onions,
                 celery sticks,
                 red pepper,
