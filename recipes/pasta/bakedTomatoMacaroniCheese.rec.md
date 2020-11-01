@@ -1,22 +1,23 @@
 Baked Macaroni Cheese with Tomato for 5
+=======================================
 
-455g macaroni
-1 can condensed tomato soup
-295ml milk
-340g cheddar, grate
-100g margarine
-15g margarine blobs for top
-2 slices of bread, grated
+    455g macaroni
+    1 can condensed tomato soup
+    295ml milk
+    340g cheddar, grate
+    100g margarine
+    15g margarine blobs for top
+    2 slices of bread, grated
 
-bake 45min or until brown (
-	preheat oven 175c,
-	dot (
-		top (
-			mix in baking dish (
-				drain(cook 8-10 until partially done (macaroni)),
-				condensed tomato soup,
-				cheddar,
-				milk,
-				margarine),
-			slices of bread),
-		margarine blobs for top))
+    bake 45min or until brown (
+        preheat oven 175c,
+        dot (
+            top (
+                mix in baking dish (
+                    drain(cook 8-10 until partially done (macaroni)),
+                    condensed tomato soup,
+                    cheddar,
+                    milk,
+                    margarine),
+                slices of bread),
+            margarine blobs for top))
