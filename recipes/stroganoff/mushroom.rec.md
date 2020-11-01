@@ -1,25 +1,26 @@
 Mushroom Stroganoff for 4
+=========================
 
-300g rice, boiled and drained
-50g butter
-1 large onion, chopped
-350g mushrooms, sliced
-350ml veg stock
-350ml soured cream
-3tbsp plain flour
-4tbsp fresh parsley, chopped
+    300g rice, boiled and drained
+    50g butter
+    1 large onion, chopped
+    350g mushrooms, sliced
+    350ml veg stock
+    350ml soured cream
+    3tbsp plain flour
+    4tbsp fresh parsley, chopped
 
-serve(
-	low heat til thickened(
-		cook 1 min medium heat(
-			put asside(
-				fry on medium high til brown and limp(
-					cook til softened(
-						melt(butter),
-						large onion),
-					mushrooms))
-			boil down to 2/3rds(veg stock)),
-		soured cream,
-		plain flour,
-		fresh parsley),
-	rice)
+    serve(
+        low heat til thickened(
+            cook 1 min medium heat(
+                put asside(
+                    fry on medium high til brown and limp(
+                        cook til softened(
+                            melt(butter),
+                            large onion),
+                        mushrooms)),
+                boil down to 2/3rds(veg stock)),
+            soured cream,
+            plain flour,
+            fresh parsley),
+        rice)
