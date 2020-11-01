@@ -12,7 +12,7 @@ Dilute with sparkling water like a cordial. Use fresh or frozen cherries. If you
     100ml acid phosphate
 
     add(
-        strain/filter as much as practical(
+        "strain/filter as much as practical"(
             leave bag in fridge for a few days(
                 sous vide 60degC 4 hours(
                     sweet black cherries,

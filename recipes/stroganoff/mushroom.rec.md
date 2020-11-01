@@ -19,7 +19,7 @@ Mushroom Stroganoff for 4
                             melt(butter),
                             large onion),
                         mushrooms)),
-                boil down to 2/3rds(veg stock)),
+                "boil down to 2/3rds"(veg stock)),
             soured cream,
             plain flour,
             fresh parsley),

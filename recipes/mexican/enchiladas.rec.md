@@ -28,7 +28,7 @@ Tasty ass. Made with all the spices! Use heaped tsps of chilli powder for mouth 
             pour over remaining sauce(
                 place on baking tray(
                     spoon in and roll(
-                        mix in 3/4 sauce(
+                        "mix in 3/4 sauce"(
                             add(
                                 simmer 15-20mins(
                                     bring to boil(

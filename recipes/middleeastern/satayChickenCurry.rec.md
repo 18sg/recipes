@@ -19,7 +19,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
     6 small hot chillies, chop
     0.5 onion for sauce, dice
     4 cloves garlic, mince
-    remaining satay seasoning
+    'remaining satay seasoning'
     0.5 cup unsalted roasted peanuts for blender, chop
     250ml chicken stock
     0.25 cup unsalted roasted peanuts for pan, chop
@@ -40,7 +40,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
         curry powder,
         salt,
         sugar
-    ),
+    )
     add to taste(
         lime juice,
         simmer (
@@ -65,7 +65,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
                 unsalted roasted peanuts for blender,
                 chicken stock,
                 cook 1 min (
-                    remaining satay seasoning,
+                    'remaining satay seasoning',
                     saute in chicken pan (
                         oil for sauce,
                         small hot chillies,

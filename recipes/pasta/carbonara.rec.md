@@ -34,7 +34,7 @@ Recipie from http://www.bbcgoodfood.com/recipes/2876/learn-to-make-spaghetti-car
                 grana padano,
                 salt,
                 pepper,
-                mix 2/3 egg whites and all yolks(
+                'mix 2/3 egg whites and all yolks'(
                     eggs
                 ),
             ),

@@ -29,7 +29,7 @@ Eat seasonally. Or unseasonally. Just eat it. It's nice.
                                     ground ginger,
                                     ground mixed spice ),
                                 cool slightly (
-                                    melt but don't bubble (
+                                    "melt but don't bubble" (
                                         soft butter,
                                         soft dark brown sugar,
                                         black treacle,

@@ -23,7 +23,7 @@ Extremely jucy with extremely crackly crackling on the meat
                                     place wire rack above water line(
                                         fill baking tray with 1inch water),
                                     place in fridge uncovered overnight(
-                                        fill but don't get skin wet(
+                                        "fill but don't get skin wet"(
                                             place in bowel or tin slightly larger than meat(
                                                 pat skin dry with paper towel(
                                                     belly pork joint)),
