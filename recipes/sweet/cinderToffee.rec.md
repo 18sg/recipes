@@ -25,5 +25,5 @@ Contains 3 (count them) THREE types of sugar Recipe from http://www.bbc.co.uk/fo
                                             golden syrup,
                                             water ))))),
                          bicarbonate of soda ),
-                         grease 9" square 0.5" deep baking tin (
+                         'grease 9" square 0.5" deep baking tin' (
                              vegetable oil )))))
