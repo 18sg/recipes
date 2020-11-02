@@ -1,7 +1,6 @@
 Spaghetti with chickpeas and spicy tomato sauce for 4
 =====================================================
 
-    2 tbsp olive oil
     1 onion, chopped
     1 clove garlic, crushed
     1 celery stick, finely chopped

@@ -4,8 +4,7 @@ Chickpea and Roasted Red Pepper Veggiburgers for 6
 Not world-changing, but still fairly nice veggie burgers.
 
     100g pine nuts
-    1 tsp olive oil
-    1 bunch spring onions, sliced
+    {1 bunch} spring onions, sliced
     3 cloves garlic, crushed
     150g roasted red peppers
     1 tin chickpeas, drained and rinsed
@@ -18,6 +17,7 @@ Not world-changing, but still fairly nice veggie burgers.
         divide into one patty per person(
             stir together(
                 lightly dry fry(pine nuts),
+                fresh wholemeal breadcrumbs,
                 blend(
                     roasted red peppers,
                     chickpeas,

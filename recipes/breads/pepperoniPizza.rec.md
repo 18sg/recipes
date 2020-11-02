@@ -41,7 +41,7 @@ Uses a stand mixer, aka Kitchen Aid, for making the dough. Replace mixer at spee
                                             add flour until clings to hook & bowl sides clean(
                                                 mix speed 2 for 1min(
                                                     dissolve(
-                                                        packet yeast,
+                                                        yeast,
                                                         warm water
                                                     ),
                                                     salt for dough,
@@ -57,10 +57,10 @@ Uses a stand mixer, aka Kitchen Aid, for making the dough. Replace mixer at spee
                                     simmer 1hour(
                                         brown slightly(
                                             small onion,
-                                            clove garlic,
+                                            garlic,
                                             olive oil for sauce
                                         ),
-                                        tin chopped tomatoes,
+                                        chopped tomatoes,
                                         origano for sauce,
                                         basil,
                                         ground cumin,

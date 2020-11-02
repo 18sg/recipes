@@ -17,7 +17,6 @@ Jonny's contribution to the christmas meal.
     400g chopped tomatoes
     2 tsp tomato purée
     1 bay leaf
-    1/4 tsp chilli powder
 
     blend (
         cover and simmer 25-30 mins (

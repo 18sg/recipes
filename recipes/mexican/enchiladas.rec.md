@@ -35,7 +35,7 @@ Tasty ass. Made with all the spices! Use heaped tsps of chilli powder for mouth 
                                         mix(
                                             saute(
                                                 heat(olive oil),
-                                                cloves garlic),
+                                                garlic),
                                             onion for sauce,
                                             dried oregano,
                                             chilli powder,

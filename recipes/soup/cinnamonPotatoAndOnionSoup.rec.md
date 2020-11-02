@@ -7,8 +7,8 @@ An improv recipe by Jonathan. Slightly hot, nice'n'thick.
     1 Large Onion, Chopped
     3 Medium Potatoes, Cubed
     500ml Stock
-    1tsb Basil
-    1/2tsb Black Pepper
+    1tsp Basil
+    1/2tsp Black Pepper
     1/2tsp Cinnamon
 
     Blend(

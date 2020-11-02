@@ -22,4 +22,5 @@ samey small main.
             small bunch of flat leaf parsley,
             walnuts,
             salt,
-            oil))
+            oil,
+            white wine vinegar))

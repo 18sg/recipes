@@ -8,13 +8,12 @@ Lasange for 5
     1 chopped tomatoes
     1 tomato soup
     175g mushrooms, sliced
-    1tsb basil
+    1tsp basil
     1 black pepper
     50g margarine
     80g plain flour
     1 pint milk
-    150g cheese, cubed
-    lasange sheets
+    300g cheese, cubed
 
     bake for 35 minutes (
         pre-heat oven 200*c,
@@ -43,6 +42,6 @@ Lasange for 5
                                 melt(margarine),
                                 plain flour),
                             milk)),
-                    cheese),
+                    1/2 of the cheese),
                 lasange sheets),
-            cheese))
+            remaining cheese))

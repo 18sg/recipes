@@ -20,7 +20,7 @@ A bread recipe from Salman (aljamms8@cs.man.ac.uk)
                                 water,
                                 salt,
                                 olive oil,
-                                sachet of yeast))))),
+                                yeast))))),
         extra olive oil,
         coarse salt,
         herbs or onion or tomato))

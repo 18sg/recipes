@@ -11,7 +11,7 @@ Filling also works well as a cassarole. Sherry can be replaced with white wine.
     100ml dry sherry
     600ml chicken stock
     150ml single cream
-    large pack fresh parsley, chop
+    {1 large pack} fresh parsley, chop
     500g pack puff pastry
     1 egg, beat
 
@@ -43,6 +43,8 @@ Filling also works well as a cassarole. Sherry can be replaced with white wine.
                             ),
                         ),
                     ),
+                    fresh parsley,
+                    chorizo,
                 ),
                 role to approx 3mm (
                     pack puff pastry
