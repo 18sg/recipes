@@ -14,8 +14,8 @@ oven on a plate separated by grease-proof paper.
     lemon juice
     caster sugar
 
-    sprinkle'n'roll(
-        fry'n'flip(
+    "sprinkle'n'roll"(
+        "fry'n'flip"(
             melt (knob butter),
             one ladle-full at a time(
                 stand for 30 minutes(

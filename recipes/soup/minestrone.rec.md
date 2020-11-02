@@ -6,7 +6,7 @@ in them. This is the version Jonathan makes. Takes a bit of effort but is
 prettey tasty and substantial.
 
     100g bacon
-    1 green pepper, core, seed and chop finely
+    1 green pepper, "core, seed and chop finely"
     1 large onion, finely chop
     1 clove garlic
     3 celery stalks

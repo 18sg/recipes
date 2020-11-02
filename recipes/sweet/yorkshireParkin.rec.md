@@ -15,7 +15,7 @@ Eat seasonally. Or unseasonally. Just eat it. It's nice.
     1tbsp milk
     Pinch of salt
 
-    wrap in greaseproof paper and store in cake tin for >=1day. The longer the stickier and tastier (
+    "wrap in greaseproof paper and store in cake tin for >=1day. The longer the stickier and tastier" (
         tip onto cake rack and cool completely (
             remove and leave for 20m(
                 bake for 1.5h (
