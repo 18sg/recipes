@@ -34,6 +34,7 @@ trouble to find the real stuff if you can.
                 medium onions,
                 celery sticks,
                 red pepper,
+                medium carrots,
                 garlic cloves,
                 oil),
             sweet Hungarian paprika,

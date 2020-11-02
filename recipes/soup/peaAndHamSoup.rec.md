@@ -10,7 +10,6 @@ Ham can be substituted for pre-boiled gammon. Very large portions for two but ve
     pepper
     300g frozen peas
     400ml chicken stock
-    200ml milk
     100g thick cut ham
 
     season(

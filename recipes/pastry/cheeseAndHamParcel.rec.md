@@ -1,7 +1,6 @@
 Melted Cheese and Ham Parcel for 4
 ==================================
 
-    3 tbsp creme fraiche
     1tbsp mustard
     175g gruyere or cheddar, grate
     350g puff pastry

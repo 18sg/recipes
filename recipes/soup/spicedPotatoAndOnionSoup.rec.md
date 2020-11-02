@@ -32,7 +32,9 @@ Indian Spiced Potato and Onion Soup (Slow Cooker) for 6
                             ground cumin,
                             ground coriander,
                             ground turmeric,
-                            ground cinnamon))),
+                            ground cinnamon)),
+                    chicken stock,
+                ),
                 salt)),
         natural yoghurt,
         pepper)

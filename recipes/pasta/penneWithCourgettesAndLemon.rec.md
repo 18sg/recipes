@@ -10,6 +10,5 @@ Looks like snot but tastes good.
     3 tbsp double cream
     1.25 tbsp lemon juice
     2 tbsp fresh parsley, chopped
-    parmesan
 
     season (add (drain (boil (penne)), double cream, lemon juice, stir fry (grate coursely (courgettes), garlic, butter), fresh parsley))

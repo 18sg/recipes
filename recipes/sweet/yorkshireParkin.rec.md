@@ -13,7 +13,6 @@ Eat seasonally. Or unseasonally. Just eat it. It's nice.
     1tsp ground mixed spice
     2 medium eggs, beat
     1tbsp milk
-    Pinch of salt
 
     "wrap in greaseproof paper and store in cake tin for >=1day. The longer the stickier and tastier" (
         tip onto cake rack and cool completely (
@@ -27,7 +26,8 @@ Eat seasonally. Or unseasonally. Just eat it. It's nice.
                                 sift and make a well (
                                     self-raising flour,
                                     ground ginger,
-                                    ground mixed spice ),
+                                    ground mixed spice,
+                                    medium oatmeal),
                                 cool slightly (
                                     "melt but don't bubble" (
                                         soft butter,

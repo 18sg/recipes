@@ -32,7 +32,7 @@ Also briefly known as the Jonny Special. Really quick to make.
                     bazil,
                     oregarno,
                     pepper,
-                    cloves garlic)),
+                    garlic)),
             medium onion,
             cheddar,
             medium tomatoes,

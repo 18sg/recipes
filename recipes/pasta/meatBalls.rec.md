@@ -4,7 +4,6 @@ Meatballs and Spaghetti for 4
     12 cream crackers, crushed
     400g lean steak mince
     1 egg
-    salt and pepper
     parsley
     1 onion, chopped
 

@@ -5,7 +5,6 @@ Leek and Bacon Pie/Bake for 2
     3 thick bacon rashers, cubed
     85g butter
     3/4 pints milk
-    1 tsp chilli powder
     85g cheese, grated
     2 slices bread, grated with extra cheese
     2tbsp flour

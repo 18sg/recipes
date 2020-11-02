@@ -77,7 +77,7 @@ What it says on the tin. Ghee can be swapped for butter. Red food colouring can 
                                     fenugreek powder,
                                     paprika,
                                     cardamom pods,
-                                    cinnamon,
+                                    large piece cinnamon,
                                     reserved paste
                                 ),
                                 tomato puree,

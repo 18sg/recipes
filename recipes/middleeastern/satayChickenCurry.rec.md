@@ -11,7 +11,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
     3tsp curry powder
     1tsp salt
     2tsp sugar
-    3tsp satay seasoning for marinade
+    
     600g chicken thighs
     0.5 onion for marinade, grate
     1tsp oil for chicken
@@ -19,7 +19,6 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
     6 small hot chillies, chop
     0.5 onion for sauce, dice
     4 cloves garlic, mince
-    'remaining satay seasoning'
     0.5 cup unsalted roasted peanuts for blender, chop
     250ml chicken stock
     0.25 cup unsalted roasted peanuts for pan, chop
@@ -31,7 +30,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
     3 kaffir lime leaves, crush
     lime juice
 
-    mix to make satay seasoning (
+    satay seasoning = mix (
         coriander powder,
         cumin powder,
         tumeric powder,
@@ -48,7 +47,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
                 brown (
                     oil for chicken,
                     marinate overnight (
-                        satay seasoning for marinade,
+                        3tsp of the satay seasoning,
                         chicken thighs,
                         onion for marinade
                     ),
@@ -65,7 +64,7 @@ Recipe from https://www.recipetineats.com/chicken-satay-curry/ .
                 unsalted roasted peanuts for blender,
                 chicken stock,
                 cook 1 min (
-                    'remaining satay seasoning',
+                    remaining satay seasoning,
                     saute in chicken pan (
                         oil for sauce,
                         small hot chillies,

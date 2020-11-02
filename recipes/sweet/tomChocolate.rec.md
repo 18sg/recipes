@@ -1,5 +1,5 @@
-Tom's Hot Chocolate (for 1)
-===========================
+Tom's Hot Chocolate for 1
+=========================
 
     2tbsp hot chocolate powder
     2tbsp sugar

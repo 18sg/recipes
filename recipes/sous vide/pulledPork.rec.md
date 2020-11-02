@@ -12,7 +12,7 @@ Recipie from https://www.seriouseats.com/recipes/2016/07/sous-vide-barbecue-pull
     1tbsp dried oregano
     1tbsp whole coriander seeds
     1tsp red pepper flakes
-    2.75kg whole boneless pork shoulder approx
+    2.75kg "whole boneless pork shoulder (approx)"
     0.5tsp liquid smoke
     1 bottlesworth good quality BBQ sauce
     Salt
@@ -37,7 +37,7 @@ Recipie from https://www.seriouseats.com/recipes/2016/07/sous-vide-barbecue-pull
                                             whole coriander seeds,
                                             red pepper flakes
                                         ),
-                                        approx whole boneless pork shoulder
+                                         "whole boneless pork shoulder (approx)",
                                     ),
                                     liquid smoke
                                 ),
