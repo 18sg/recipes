@@ -1,0 +1,925 @@
+@import url(http://fonts.googleapis.com/css?family=Donegal+One);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+
+:root {
+    --normal-colour:  #000000;
+    --accent-colour:  #FE5E41;
+    --inverted-fg-colour: #FFFFFF;
+    
+    --hr-colour: #DDDDDD;
+    --subtitle-colour: #666666;
+    --link-colour: #666666;
+}
+/******************************************************************************/
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/* Sections
+   ========================================================================== */
+
+/**
+ * Remove the margin in all browsers.
+ */
+
+body {
+  margin: 0;
+}
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+
+main {
+  display: block;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* Grouping content
+   ========================================================================== */
+
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+
+hr {
+  box-sizing: content-box; /* 1 */
+  height: 0; /* 1 */
+  overflow: visible; /* 2 */
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/* Text-level semantics
+   ========================================================================== */
+
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+
+a {
+  background-color: transparent;
+}
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+
+abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+/**
+ * Add the correct font size in all browsers.
+ */
+
+small {
+  font-size: 80%;
+}
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/* Embedded content
+   ========================================================================== */
+
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+
+img {
+  border-style: none;
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1.15; /* 1 */
+  margin: 0; /* 2 */
+}
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+
+button,
+input { /* 1 */
+  overflow: visible;
+}
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+
+button,
+select { /* 1 */
+  text-transform: none;
+}
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+
+/**
+ * Correct the padding in Firefox.
+ */
+
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+
+legend {
+  box-sizing: border-box; /* 1 */
+  color: inherit; /* 2 */
+  display: table; /* 1 */
+  max-width: 100%; /* 1 */
+  padding: 0; /* 3 */
+  white-space: normal; /* 1 */
+}
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+
+progress {
+  vertical-align: baseline;
+}
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+
+textarea {
+  overflow: auto;
+}
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box; /* 1 */
+  padding: 0; /* 2 */
+}
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+
+[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}
+
+/* Interactive
+   ========================================================================== */
+
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+
+details {
+  display: block;
+}
+
+/*
+ * Add the correct display in all browsers.
+ */
+
+summary {
+  display: list-item;
+}
+
+/* Misc
+   ========================================================================== */
+
+/**
+ * Add the correct display in IE 10+.
+ */
+
+template {
+  display: none;
+}
+
+/**
+ * Add the correct display in IE 10.
+ */
+
+[hidden] {
+  display: none;
+}
+/******************************************************************************/
+body {
+    font-family : "Open Sans", sans-serif;
+    
+    padding-left: 16px;
+    padding-right: 16px;
+    
+    line-height: 1.3;
+    text-align: justify;
+}
+
+@media screen {
+    body {
+        /* Bodge for certain mobile browsers which show stuff across the bottom
+         * of the screen preventing you reading the last few lines of a recipe.
+        */
+        padding-bottom: 64px;
+    }
+}
+
+/* Lay out the page within an (up-to) 20cm central column, with the exception
+ * of recipe blocks which may exceed this width up to the screen width as
+ * required.
+ */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body > * {
+    width: 100%;
+    max-width: 20cm;
+}
+
+body > .rg-recipe-block {
+    width: auto;
+    max-width: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Fill printed pages, don't make artificially narrower */
+@media print {
+    body {
+        padding: 0;
+    }
+    
+    body > *{
+        max-width: none;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family : "Donegal One", "DejaVu Serif", "Times New Roman", Times, serif;
+    font-weight: normal;
+}
+
+p {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+header {
+    text-align: center;
+    
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: var(--hr-colour);
+    
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+header p {
+    margin-top: 8px;
+    margin-bottom: 0;
+    
+    font-style: italic;
+    font-size: 90%;
+    color: var(--subtitle-colour);
+}
+
+a {
+    text-decoration: none;
+    color: var(--link-colour);
+}
+a:hover {
+    text-decoration: underline;
+}
+/**
+ * CSS For styling recipe grid tables, and nothing else.
+ */
+
+
+/**
+ * Colour definitions.
+ *
+ * Warning: There are a couple of SVGs in data URLs below which unfortunately
+ * have these colours hard-coded and so need to be changed. Search for
+ * 'data:image/svg+xml;utf8' in your editor...
+ */
+:root {
+    --rg-table-normal-colour: var(--normal-colour, #000000);
+    --rg-table-accent-colour: var(--accent-colour, #FE5E41);
+    --rg-table-inverted-fg-colour: var(--inverted-fg-colour,#FFFFFF);
+}
+
+/**
+ * General table layout
+ */
+table.rg-table {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+    border-spacing : 0;
+    border-collapse : collapse;
+}
+
+table.rg-table tr td {
+    text-align : left;
+    vertical-align: middle;
+    
+    margin : 0;
+    padding : 0;
+    
+    padding-left  : 10px;
+    padding-right : 10px;
+    padding-top   : 3px;
+    padding-bottom: 3px;
+    
+    border-style : solid;
+    border-width : 1px;
+    border-color : var(--rg-table-normal-colour);
+}
+
+/**
+ * Border specifying classes.
+ */
+
+table.rg-table tr td.rg-border-right-none { border-right-style: none; }
+table.rg-table tr td.rg-border-left-none { border-left-style: none; }
+table.rg-table tr td.rg-border-top-none { border-top-style: none; }
+table.rg-table tr td.rg-border-bottom-none { border-bottom-style: none; }
+
+table.rg-table tr td.rg-border-right-sub-recipe { border-right-width: 3px; }
+table.rg-table tr td.rg-border-left-sub-recipe { border-left-width: 3px; }
+table.rg-table tr td.rg-border-top-sub-recipe { border-top-width: 3px; }
+table.rg-table tr td.rg-border-bottom-sub-recipe { border-bottom-width: 3px; }
+
+
+/**
+ * Specialisations for cell types (e.g. ingredient or sub recipe header)
+ */
+
+table.rg-table tr td.rg-ingredient {
+    font-weight: 600;
+}
+
+table.rg-table tr td.rg-reference {
+    font-style: italic;
+}
+
+table.rg-table tr td.rg-reference a:before {
+    content: "\2196";
+}
+
+table.rg-table tr td.rg-sub-recipe-header {
+    background-color: var(--rg-table-normal-colour);
+    color: var(--rg-table-inverted-fg-colour);
+    border-color: var(--rg-table-normal-colour);
+    
+    border-top: none;
+}
+
+table.rg-table tr td.rg-sub-recipe-outputs {
+    padding: 0;
+}
+
+table.rg-table tr td.rg-sub-recipe-outputs ul {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    
+    padding: 0;
+    margin: 0;
+}
+
+table.rg-table tr td.rg-sub-recipe-outputs ul li {
+    display: block;
+    font-weight: bold;
+    
+    margin: 0;
+    padding-left  : 32px;
+    padding-right : 8px;
+    padding-top   : 3px;
+    padding-bottom: 3px;
+    
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: center;
+    /* NB: The fill colour in this image should be modified to be 
+     * the same as --rg-table-normal-colour */
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="12" viewBox="0 0 6.35 3.175"><path d="M4.058 0v1.191H0v.794h4.058v1.19L6.35 1.588 4.058 0z" fill="%23000000"/></svg>');
+}
+
+
+/**
+ * Unit conversion popups
+ */
+.rg-quantity-with-conversions ul.rg-quantity-conversions {
+    position: absolute;
+    z-index: 999;
+    
+    margin: -8px;
+    margin-top: 4px;
+    padding: 8px;
+    
+    background-color: white;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+    border-radius: 4px;
+    
+    filter: drop-shadow(4px 4px 8px #00000033);
+    
+    list-style: none;
+    text-align: left;
+}
+
+/* Draw an arrow pointing up at the value. */
+.rg-quantity-with-conversions ul.rg-quantity-conversions:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -16px;
+    
+    box-sizing: content-box;
+    width: 0;
+    height: 0;
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    
+}
+
+.rg-quantity-with-conversions ul.rg-quantity-conversions li {
+    padding-bottom: 8px;
+}
+.rg-quantity-with-conversions ul.rg-quantity-conversions li:last-child {
+    padding-bottom: 0;
+}
+
+/* Show on unit conversions on mouseover/focus */
+.rg-quantity-with-conversions:focus {
+    outline: none;
+}
+.rg-quantity-with-conversions .rg-quantity-conversions {
+    visibility: hidden;
+}
+.rg-quantity-with-conversions:hover .rg-quantity-conversions,
+.rg-quantity-with-conversions:focus-within .rg-quantity-conversions {
+    visibility: visible;
+    pointer-events: auto;
+}
+.rg-quantity-with-conversions:hover .rg-quantity-conversions {
+    z-index: 1000;
+    pointer-events: none;
+}
+
+/* Hide conversions in print */
+@media print {
+    .rg-quantity-with-conversions .rg-quantity-conversions {
+        display: none;
+    }
+}
+
+
+/**
+ * Apply accent colouring when a table cell is targeted.
+ */
+
+table.rg-table:target {
+    border-color : var(--rg-table-accent-colour);
+}
+table.rg-table:target tr td.rg-border-right-sub-recipe {
+    border-right-color: var(--rg-table-accent-colour);
+}
+table.rg-table:target tr td.rg-border-left-sub-recipe {
+    border-left-color: var(--rg-table-accent-colour);
+}
+table.rg-table:target tr td.rg-border-top-sub-recipe {
+    border-top-color: var(--rg-table-accent-colour);
+}
+table.rg-table:target tr td.rg-border-bottom-sub-recipe {
+    border-bottom-color: var(--rg-table-accent-colour);
+}
+
+
+table.rg-table:target tr td.rg-sub-recipe-header {
+    background-color: var(--rg-table-accent-colour);
+    color: var(--rg-table-inverted-fg-colour);
+    border-color: var(--rg-table-accent-colour);
+}
+
+table.rg-table tr td.rg-sub-recipe-outputs ul li:target {
+    color: var(--rg-table-inverted-fg-colour);
+    background-color: var(--rg-table-accent-colour);
+    
+    /* NB: The fill colour in this image should be modified to be 
+     * the same as --rg-table-inverted-fg-colour */
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="12" viewBox="0 0 6.35 3.175"><path d="M4.058 0v1.191H0v.794h4.058v1.19L6.35 1.588 4.058 0z" fill="%23FFFFFF"/></svg>');
+}
+
+/**
+ * Nav bar and breadcrumb bar.
+ */
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #DDD;
+}
+
+/* Don't print the navbar */
+@media print {
+    nav {
+        display: none;
+    }
+}
+
+ul.breadcrumb {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    flex-wrap: wrap;
+    
+    flex-grow: 1;
+    
+    padding: 0;
+    
+    --row-spacing: 16px;
+    margin-bottom: calc(0 - var(--row-spacing));
+}
+
+
+ul.breadcrumb li {
+    display: block;
+    
+    margin-bottom: var(--row-spacing);
+}
+
+ul.breadcrumb li:before {
+    content: ">";
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #888888;
+}
+
+ul.breadcrumb li:first-child:before {
+    content: "";
+    display: none;
+}
+
+/* Only show the homepage in breadcrumb bar on mobile/narrow screens */
+@media screen and (max-width: 15cm) {
+    ul.breadcrumb {
+        flex-direction: column;
+    }
+    ul.breadcrumb li {
+        display: none;
+    }
+    ul.breadcrumb li:first-child {
+        display: inherit;
+    }
+}
+
+/* Website name */
+ul.breadcrumb li:first-child {
+    font-weight: bolder;
+}
+
+
+/**
+ * Homepage-specific styles.
+ */
+
+.welcome-message {
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+/* The number-of-servings selection list */
+.serving-selection {
+    text-align: center;
+    font-size: 130%;
+}
+
+.serving-selection p {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.serving-selection ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    margin: 0;
+    padding: 0;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.serving-selection ul li {
+    list-style: none;
+    
+    padding: 8px;
+    padding: 8px;
+}
+
+.serving-selection li .big-button {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.big-button {
+    font-size: 120%;
+    font-weight: bolder;
+    
+    display: inline-block;
+    min-width: 48px;
+    line-height: 48px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+/**
+ * Category page specific styles.
+ */
+
+.category-selection p {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.category-selection {
+    text-align: center;
+    font-size: 130%;
+}
+
+.category-selection ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin: 0;
+    padding: 0;
+    margin-bottom: 64px;
+}
+
+.category-selection ul li {
+    list-style: none;
+}
+
+.category-selection ul li a {
+    font-size: 120%;
+    font-weight: bolder;
+    
+    display: block;
+    min-height: 48px;
+    min-width: 48px;
+    
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/**
+ * Recipe page specific styles.
+ */
+
+.rg-recipe-block {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    
+    position: relative;
+    max-width: 100vw;
+}
+
+/* Change number of servings drop-down */
+.rg-serving-count {
+    display: inline-block;
+}
+
+.rg-serving-count .rg-serving-count-current:after {
+    content: " \25BE";
+    font-size: 70%;
+}
+
+.rg-serving-count ul {
+    position: absolute;
+    z-index: 999;
+    
+    margin: -16px;
+    padding: 16px;
+    margin-top: 0;
+    padding-top: 0;
+    
+    background-color: white;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--hr-colour);
+    
+    filter: drop-shadow(4px 4px 8px #00000033);
+    
+    list-style: none;
+    text-align: left;
+    
+    visibility: hidden;
+}
+
+.rg-serving-count:hover ul,
+.rg-serving-count:focus-within ul {
+    visibility: visible;
+}
+
+@media print {
+    .rg-serving-count .rg-serving-count-current:after {
+        display: none;
+    }
+    .rg-serving-count ul {
+        display: none;
+    }
+}
