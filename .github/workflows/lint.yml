@@ -1,0 +1,30 @@
+name: Lint recipes
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Upgrade pip
+      run: |
+        python -m pip install --upgrade pip
+    - name: Install Recipe Grid
+      run: |
+        python -m pip install "recipe_grid>=2.0,<3.0"
+    - uses: actions/checkout@v2
+      with:
+        # NB: Need to fetch more commits to allow command below to work out
+        # which files have changed
+        fetch-depth: 2
+    - name: Run recipe linter on changed files
+      run: |
+        git diff --name-only ${{ github.sha }}^ ${{ github.sha }} | grep -e "^recipes/.*[.]md$" | xargs -d "\n" recipe-grid-lint
+    - name: Check site builds
+      run: |
+        recipe-grid-site recipes out
