@@ -6,23 +6,20 @@ Really fantastic dish thats full of flavour. In a similar family to chilli con c
     2 ancho chillies
     2tbsp sunflower oil
     8 skinless bone-in chicken thighs
-    2 onions
-    2tsp ground cumin
-    1.5tsp cinnamon
     3 cloves garlic, roughly chopped
     50g raisins
-    2tbsp smooth peanut butter
-    2tbsp chipotle paste
-    1can chopped tomatoes
-    400ml water
-    25g dark chocolate
-    150ml soured cream
 
     chillies, chilli water = remove(
         soak 20mins(
             cover (
                 ancho chillies,
                 boiling water)))
+
+    chicken, casserole dish = set aside chicken(
+        brown in casserole dish(
+            season(
+                skinless bone-in chicken thighs),
+        sunflower oil))
 
     chilli paste = whizz in food processor(
         remove seeds and stalks(
@@ -31,13 +28,17 @@ Really fantastic dish thats full of flavour. In a similar family to chilli con c
             garlic),
         raisins)
 
-    chicken, casserole dish = set aside chicken(
-        brown in casserole dish(
-            season(
-                skinless bone-in chicken thighs),
-        sunflower oil))
-
 If the sauce starts to look too thick in the next section, add some of the chilli water.
+
+    2 onions
+    2tsp ground cumin
+    1.5tsp cinnamon
+    2tbsp smooth peanut butter
+    2tbsp chipotle paste
+    1can chopped tomatoes
+    400ml water
+    25g dark chocolate
+    150ml soured cream
 
     serve(
         cook uncovered 30mins(
