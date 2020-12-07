@@ -4,7 +4,7 @@ Kimchi
 Used in Korean, Chinese, and Japanese cooking. Spicy, garlicky, slightly funky, and full of flavour. Great on burgers. Needs a pickling (i.e. Kilner) jar big enough for the cabbage (2l should do).  This is a fermented food so keep an eye out for any mould. Make sure you 'burp' the jar each day to avoid messy explosions.
 
     1 chinese leaf, quarter lengthways
-    290g gochugaru
+    100g gochugaru
     1 onion, chop
     15 cloves garlic
     60g ginger, peal
