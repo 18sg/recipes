@@ -13,44 +13,48 @@ A really nice, quite floral cola. Dilute with cold sparkling water like a cordia
     0.5ml neroli oil
     20g gum arabic
     40ml water for emulsion
+
+    emulsion := add oil slowly and mix vigorously with whisk in drill or powered balloon whisk approx 20mins(
+        mix in high-sided glass(
+            gum arabic,
+            water for emulsion
+        ),
+        mix in small glass(
+            orange oil,
+            lime oil,
+            lemon oil,
+            cassia oil,
+            nutmeg oil,
+            coriander oil,
+            lavender oil,
+            neroli oil,
+        ))
+
     200ml double strength caramel colouring
     70ml citric acid
     100ml water for concentrate
     22ml vanilla extract
     4ml kola extract
+
+    concentrate = mix(
+        emulsion,
+        mix(
+            mix acid into caramel(
+                mix until clear(
+                    citric acid,
+                    water for concentrate
+                ),
+                double strength caramel colouring
+            ),
+            vanilla extract,
+            kola extract
+        ))
+
     800ml water for syrup, simmer
     1.4kg sugar
 
-    mix 32ml of concentrate into the syrup(
-        mix to form concentrate(
-            add oil slowly and mix vigorously with whisk in drill or powered balloon whisk approx 20mins(
-                mix in high-sided glass(
-                    gum arabic,
-                    water for emulsion
-                ),
-                mix in small glass(
-                    orange oil,
-                    lime oil,
-                    lemon oil,
-                    cassia oil,
-                    nutmeg oil,
-                    coriander oil,
-                    lavender oil,
-                    neroli oil,
-                ),
-            ),
-            mix(
-                mix acid into caramel(
-                    mix until clear(
-                        citric acid,
-                        water for concentrate
-                    ),
-                    double strength caramel colouring
-                ),
-                vanilla extract,
-                kola extract
-            ),
-        ),
+    syrup = mix(
+        32ml concentrate,
         cool to room temp(
             disolve gently(
                 water for syrup,
