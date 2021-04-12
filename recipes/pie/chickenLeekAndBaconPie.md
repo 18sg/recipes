@@ -1,8 +1,8 @@
 Chicken, Leek, Bacon and Mushroom Pie for 4
 ===========================================
 
-A really good chicken pie recipe (almost) as good as the [Steak and Ale
-pie](./steakAndAlePie.rec.md) but quite a lot quicker to make!
+A really good chicken pie recipe (almost) as good as the Steak and Ale pie but
+quite a lot quicker to make!
 
 
     400g chicken breast fillets, cut into chunks
