@@ -16,7 +16,7 @@ Supposedly it should be 160C for a fan oven, but 180C works fine...
     400g potatoes
     1 onion
     {1 pinch} dried rosemary
-    egg, beaten
+    1 egg, beaten
 
     pastry := chill 1 hour(
         wrap in cling-film(
@@ -46,6 +46,6 @@ Supposedly it should be 160C for a fan oven, but 180C works fine...
                     pile on one side leaving 2.5cm gap(
                         roll into 20cm rounds(divide(pastry)),
                         divide(filling)),
-                    egg)),
-            egg))
+                    0.5 egg)),
+            0.5 egg))
 
