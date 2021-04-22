@@ -7,6 +7,9 @@ They can be cooked from frozen, just bake for 1 hour instead. Always freeze
 them on baking parchment! You might think that they would come off a plastic
 chopping board easily, but you'd be wrong.
 
+The salt is there to extract water from the mushrooms; after draining they
+should weigh about 400g.
+
 Supposedly it should be 160C for a fan oven, but 180C works fine...
 
     500g mixed mushrooms
