@@ -1,5 +1,5 @@
-Three Cheese & Chorizo Pasta Bake
-=================================
+Three Cheese & Chorizo Pasta Bake for 4
+=======================================
 
     40g cheddar, grated
     250g mozzarella, drained and chopped into chunks
