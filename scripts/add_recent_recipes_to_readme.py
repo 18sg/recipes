@@ -4,7 +4,8 @@
 This script will automatically add a list of recently edited or added recipes
 to the top-level README of the recipes website.
 
-It is intended that this script is run 
+It is intended that this script is run via GitHub actions (i.e. the edits to
+the README with recent changes are not committed to the repo).
 """
 
 from typing import List, Dict, Tuple
