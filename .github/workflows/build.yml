@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - "master"
+  
+  # Regularly rebuild to remove stale entries from 'recent' recipes list
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     steps:
     - name: Set up Python
@@ -21,6 +24,9 @@ jobs:
       run: |
         python -m pip install "recipe_grid>=2.0,<3.0"
     - uses: actions/checkout@v2
+    - name: Add recent recipes to README
+      run: |
+        python scripts/add_recent_recipes_to_readme.py
     - name: Build site
       run: |
         recipe-grid-site recipes out
