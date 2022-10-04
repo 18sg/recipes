@@ -2,7 +2,6 @@ Leek and Mushroom Tagliatelle for 4
 ===================================
 
     200g chestnut mushrooms, sliced
-    4tbsp butter
     3 cloves garlic, finely chopped
     2 fresh rosemary sprigs, pick leaves and finely chopped
     3 leeks, chopped 10cm lengths, quarter
@@ -15,28 +14,37 @@ Leek and Mushroom Tagliatelle for 4
     pan, mushrooms = set mushrooms to one side(
         season (
             fry until brown (
-                chestnut mushrooms,
                 fry 30s (
-                    50% butter,
+                    2tbsp butter,
                     garlic,
-                    fresh rosemary sprigs))))
+                    fresh rosemary sprigs
+                ),
+                chestnut mushrooms,
+            )
+        )
+    )
 
     top (
-        parmesan,
         plate (
             mix (
-                drain (cook per packet (tagliatelle)),
                 add (
+                    simmer until almost all evaporated(
+                        fry low 10mins until soft (
+                            pan,
+                            2tbsp butter,
+                            leeks,
+                        ),
+                        dry white wine,
+                    ),
                     mushrooms,
                     salt,
                     pepper,
                     fresh parsley,
                     double cream,
-                    simmer until almost all evaporated(
-                        dry white wine,
-                        fry low 10mins until soft (
-                            pan,
-                            leeks,
-                            remaining butter
-                            ))))))
+                ),
+                drain (cook per packet (tagliatelle)),
+            )
+        ),
+        parmesan,
+    )
 
