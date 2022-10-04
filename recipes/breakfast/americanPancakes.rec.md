@@ -1,9 +1,9 @@
 American Pancakes for 2
 =======================
 
-Makes approximately 3 pancakes each. Serve with more butter, maple syrup and bacon, or whatever other toppings you fancy.
+Makes approximately {6} pancakes. Serve with more butter, maple syrup and bacon, or whatever other toppings you fancy.
 
-    135g plane flour
+    135g plain flour
     1tsp baking powder
     1/2tsp salt
     2tbsp caster sugar
@@ -18,5 +18,5 @@ Makes approximately 3 pancakes each. Serve with more butter, maple syrup and bac
                 melt in frying pan on medium heat (knob of butter),
                 stand for a few mins(
                     mix into thick batter(
-                        mix (plane flour, baking powder, salt, caster sugar),
+                        mix (plain flour, baking powder, salt, caster sugar),
                         mix (milk, large egg, butter))))))
