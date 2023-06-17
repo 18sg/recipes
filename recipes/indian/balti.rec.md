@@ -1,7 +1,7 @@
 Lamb Balti for 4
 ================
 
-A fantastic balti recipe. Rivals those you'd get in a curry house. Scales well. You don't need to worry too much about half-tins of tomatoes. Just chuck the whole thing in. Swap tomatoes for vine ripened if you like. Swap garlic/ginger for pastes if you like. Ghee can be swapped for butter. Just be careful not to burn the milk solids. Swap meat for whatever you like.
+A fantastic balti recipe. Rivals those you'd get in a curry house. Scales well. You don't need to worry too much about half-tins of tomatoes. Just chuck the whole thing in. Swap tomatoes for vine ripened if you like. Swap garlic/ginger for pastes if you like. Ghee can be swapped for butter. Just be careful not to burn the milk solids. Swap meat for whatever you like. 
 
     2 tbsp vegetable oil
     1 tbsp ghee
