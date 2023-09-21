@@ -38,7 +38,7 @@ Makes a pretty great cottage pie.
                 plain flour,
                 tomato puree,
             ),
-            browned beef,
+            browned mince,
             beef stock,
             Worcestershire sauce,
             a few thyme sprigs,
