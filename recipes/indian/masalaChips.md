@@ -4,6 +4,9 @@ Masala Chips for 3
 A very addictive side dish or starter. Don't pre-judge too harshly by the
 presence of tomato ketchup...
 
+Substitute chips for [potato wedges (sans
+'spice')](../traditional/spicedPotatoWedges.rec.md) for an equally delicious
+dish -- a bit like Bombay potatoes.
 
     350g chips, cooked as usual
     
