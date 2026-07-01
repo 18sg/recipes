@@ -13,7 +13,7 @@ Rediculous but extremely tasty side. If they start to over-brown before cooked t
 
     bake until brown and cooked through(
         preheat oven 200c,
-        arrange working up edges into a rose shape finishing with small pieces in middle(
+        arrange slices working up edges of tin into a rose shape finishing with small pieces in middle(
             grease muffin tin with some of the butter,
             toss in a litte at a time(
                 toss(

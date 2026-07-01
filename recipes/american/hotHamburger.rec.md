@@ -31,18 +31,19 @@ Traditional Canadian comfort food. It's a burger on top of a slice of bread cove
 
     top(
         cover and simmer until cooked through(
-            season(
-                stir in(
+            return burgers to pan(
+                season(
                     stir in(
-                        melt(
-                            fry until mushrooms golden(
-                                fry in burger pan until golden(
-                                    medium onions,
-                                    oil),
-                                mushrooms),
-                            butter),
-                        flour),
-                    beef broth,
-                    marmite)),
-            burgers),
+                        stir in(
+                            melt(
+                                fry until mushrooms golden(
+                                    fry in burger pan until golden(
+                                        medium onions,
+                                        oil),
+                                    mushrooms),
+                                butter),
+                            flour),
+                        beef broth,
+                        marmite)),
+                burgers)),
         slices of white bread)
