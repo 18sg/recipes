@@ -42,7 +42,7 @@ heat 3mins(
               remaining butter,
               pan
             ),
-            rashers bacon
+            bacon
           ),
           remaining plain flour
         ),
